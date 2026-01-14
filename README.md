@@ -1,4 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Lumina Photo to Video AI App 🚀
+
+Convert photos into dynamic AI-generated videos with ease — built with Next.js and cutting-edge AI tech.
+
+A 👩‍💻 **user-friendly interface** that lets you turn images into videos using AI models, ideal for creators, social media enthusiasts, and devs exploring media generation.
+
+---
+
+## 🔗 Demo
+
+👉 https://lumina-image-to-video.vercel.app/
+
+> Try the live app to see how photos transform into short videos!
+
+---
+
+## 🧠 What It Does
+
+Lumina Photo to Video AI App takes input images and generates a smooth video output using AI-powered algorithms. You can use it to:
+- Turn single or multiple photos into short clips.
+- Explore creative transitions using AI features.
+- Generate video content for social or portfolio use.
+
+---
+
+## 📦 Features
+
+✅ Upload photos  
+✅ Generate videos with AI  
+✅ Fast, interactive interface  
+✅ Built with Next.js (React)  
+✅ Clean and modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Next.js    | Frontend & server-side rendering |
+| React      | UI components |
+| Vercel     | Deployment |
+| Tailwind CSS (if used) | Styling |
+| AI Models | Photo-to-video conversion (backend) |
+
+*(Adjust tech stack if your project uses more libraries/frameworks.)*
+
+---
+
+## 🚀 Getting Started
+
+### 📋 Prerequisites
+
+Make sure you have **Node.js** installed (v16+ preferred).
+
+---
+
+### 🧾 Installation
+
+1. Clone the project:
+   ```bash
+   git clone https://github.com/Akshit9150/Lumina-Photo-to-Video-AI-app-.git
+   cd Lumina-Photo-to-Video-AI-app-
+
 
 ## Getting Started
 
